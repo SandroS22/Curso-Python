@@ -1,4 +1,4 @@
-mport random
+import random
 
 n1 = (str(input('Primeiro: ')))
 n2 = (str(input('Segundo: ')))
